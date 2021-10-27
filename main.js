@@ -110,12 +110,13 @@ const documentObjectModel = {
   },
   deleteRequiredFieldMessage(value) {
     document.querySelector(`#${value}`).classList.remove('error')
-    const requiredMessage = document.querySelectorAll('.required-field-message')
-    requiredMessage.forEach(small => {
+    const div = document.querySelector(`#${value}`).parentNode
+    const small = div.querySelector(`.required-field-message`)
+    if (small !== null) {
       if (small.parentNode) {
         small.parentNode.removeChild(small)
       }
-    })
+    }
   }
 }
 
