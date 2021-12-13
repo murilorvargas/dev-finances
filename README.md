@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -22,18 +22,18 @@
   <img alt="dev-finances" src="assets/github/dev-finances.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+The following tools were used in this project:
 
 - HTML
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
-O dev.finances é uma aplicação responsiva de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+dev.finances is a responsive application for financial control, where you can register and delete transactions and see the incoming and outgoing balance 💰
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
